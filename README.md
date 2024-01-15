@@ -64,4 +64,4 @@
 ### Code Comments
 ---
 * Be well commented with concise, relevant notes that other developers can understand.
-* Module 19 Challenge: CryptoClustering, File: Crypto_Clustering
+* Module 19 Challenge: CryptoClustering, File: Crypto_Clustering.ipynb
